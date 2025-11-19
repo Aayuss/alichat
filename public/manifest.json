@@ -1,6 +1,6 @@
 {
-  "name": "app/layout.tsx",
-  "short_name": "app/layout.tsx",
+  "name": "Crafted WebApps",
+  "short_name": "Crafted WebApps",
   "description": "Apps crafted for easiness",
   "start_url": "/",
   "display": "standalone",
